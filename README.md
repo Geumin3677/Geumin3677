@@ -21,6 +21,6 @@
 
 ## Stats
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Geumin3677&show_icons=true">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geumin3677&layout=compact">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Geumin3677&show_icons=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geumin3677&layout=compact">
 </div>
