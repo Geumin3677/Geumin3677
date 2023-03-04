@@ -19,12 +19,12 @@
 ![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Stats
+## Stats ✨
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Geumin3677&show_icons=true">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geumin3677&layout=compact">
 </div>
 
-## In Dev
-[IUBRARY](https://github.com/Geumin3677/IUBRARY)
+## In Dev ✍️
+[IUBRARY](https://github.com/Geumin3677/IUBRARY)<br />
 [OnlineOmok](https://github.com/Geumin3677/OnlineOmok)
