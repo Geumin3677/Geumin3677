@@ -13,7 +13,6 @@
 ### Frameworks
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![nextjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
 
 ### Tools
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
